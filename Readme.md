@@ -27,5 +27,6 @@ sudo yum install texlive-scheme-full
 
 all the aboves with CRan
 next one from git
-
+```
 devtools::install_github("AnalytixWare/ShinySky")
+```
