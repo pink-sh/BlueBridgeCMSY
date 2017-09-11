@@ -2,7 +2,7 @@
 
 To run the application you must install the following packages:
 
-*System wide (linux os):*
+**System wide (linux os):**
 
 *Debian* 
 ```
@@ -15,7 +15,7 @@ sudo yum install v8-314-devel
 sudo yum install texlive-scheme-full
 ```
 
-*R Libraries:*
+**R Libraries:**
 
 - XML
 - tcltk2
